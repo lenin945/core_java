@@ -2,7 +2,7 @@ package org.collection_set;
 import java.util.*;
 public class ques4 {
 public static void main(String[] args) {
-	//question 4.1
+	//question 4.1.
 	Set<Integer> s1=new HashSet<>();
 	s1.add(10);
 	s1.add(20);
