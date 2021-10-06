@@ -3,7 +3,7 @@ import java.util.*;
 
 public class ques3 {
 	public static void main(String[] args) {
-		//question 3.1
+		//question 3.1.
 				Set<Integer> s1=new HashSet<>();
 				s1.add(105);
 				s1.add(205);
