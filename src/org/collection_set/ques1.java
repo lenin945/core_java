@@ -6,6 +6,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 public class ques1 {
+	//collection
 public static void main(String[] args) {
 	Set<Integer> s1=new HashSet<>();
 	s1.add(10);
